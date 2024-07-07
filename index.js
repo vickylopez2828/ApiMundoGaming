@@ -26,19 +26,19 @@ const upload = multer({ storage });
 const path = require('path');
 app.use('/static', express.static(path.join(__dirname, './upload')));
 
-app.get('/', (req, res)=>{
-  const htmlResponse =
-    `<html>
-      <head>MUNDO GAMING</head>
-      <body>
-        <h1>Holaaaa mundo gaming</h1>
-      </body>
-    </html>`;
-    res.send(htmlResponse);
-});
+// app.get('/', (req, res)=>{
+//   const htmlResponse =
+//     `<html>
+//       <head>MUNDO GAMING</head>
+//       <body>
+//         <h1>Holaaaa mundo gaming</h1>
+//       </body>
+//     </html>`;
+//     res.send(htmlResponse);
+// });
 //ruteo games
 
-// app.get('/api/games',  GamesController.getAllGames);
+ app.get('/api/games',  GamesController.getAllGames);
 // app.get('/api/games/:id',  GamesController.getGame);
 // app.post('/api/games', upload.single('gameImage'), (req, res) => {
 //     //console.log(req.file)
