@@ -5,7 +5,7 @@
     "price_normal": 8990,
     "price_off": 0,
     "description": "Juego multijugador masivo de grupos eliminación en grupo",
-    "image": "static/stumble.png",
+    "image": "https://apimundogaming.onrender.com/static/stumble.png",
     "type": "exclusive",
     "qualification": 0,
     "bought": false
@@ -16,7 +16,7 @@
     "price_normal": 25900,
     "price_off": 0,
     "description": "Videojuego tipo sandbox, podes modelar el mundo a tu gusto! tambien",
-    "image": "/static/minecraft.png",
+    "image": "https://apimundogaming.onrender.com/static/minecraft.png",
     "type": "gratis",
     "qualification": 0,
     "bought": false
