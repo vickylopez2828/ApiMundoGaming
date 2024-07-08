@@ -1,11 +1,11 @@
 "use strict";
-const data = require('../data.json')
+//const data = require('../data.json')
 const GamesModel = require('../models/games.model');
 //devuelve todos los juegos
-exports.getAllGames2 =  (req, res) => {
+// exports.getAllGames2 =  (req, res) => {
     
-    res.send(data);
-}
+//     res.send(data);
+// }
 exports.getAllGames = async (req, res) => {
     let games = await GamesModel.getAllGames();
     res.send(games);
