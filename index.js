@@ -4,6 +4,7 @@ const GamesController = require('./src/controllers/games.controller');
 const UsersController = require('./src/controllers/users.controller');
 
 //config
+require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 const multer = require('multer');
