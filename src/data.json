@@ -5,7 +5,7 @@
     "price_normal": 8990,
     "price_off": 0,
     "description": "Juego multijugador masivo de grupos eliminación en grupo",
-    "image": "../../assets/image/home/stumble.png",
+    "image": "../upload/stumble.png",
     "type": "exclusive",
     "qualification": 0,
     "bought": false
