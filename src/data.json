@@ -1,0 +1,200 @@
+[
+    {
+    "id": 1,
+    "title": "Stumble Guys",
+    "price_normal": 8990,
+    "price_off": 0,
+    "description": "Juego multijugador masivo de grupos eliminación en grupo",
+    "image": "../../assets/image/home/stumble.png",
+    "type": "exclusive",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 2,
+    "title": "Minecraft",
+    "price_normal": 25900,
+    "price_off": 0,
+    "description": "Videojuego tipo sandbox, podes modelar el mundo a tu gusto! tambien",
+    "image": "../../assets/image/home/minecraft.png",
+    "type": "gratis",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 3,
+    "title": "Super Mario Bross",
+    "price_normal": 12900,
+    "price_off": 0,
+    "description": "Acompaña a Mario y Luigi en una nueva aventura, se enfrentarán con un",
+    "image": "../../assets/image/home/mario.jpeg",
+    "type": "exclusive",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 4,
+    "title": "Fall Guys",
+    "price_normal": 15000,
+    "price_off": 12000,
+    "description": "Party royale gratis y multiplataforma donde los jugadores pueden elegir una",
+    "image": "../../assets/image/home/FallGuys.webp",
+    "type": "nuevo",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 5,
+    "title": "Free Fire",
+    "price_normal": 25000,
+    "price_off": 20000,
+    "description": "Hasta 50 jugadores caen desde un paracaídas en una isla en busca de nuevos",
+    "image": "../../assets/image/home/freeFire.jpg",
+    "type": "off",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 6,
+    "title": "Fornite",
+    "price_normal": 29000,
+    "price_off": 0,
+    "description": "Juego de batalla real, compiten hasta 100 players en solitario, dúos y equipos",
+    "image": "../../assets/image/home/fornite.jpg",
+    "type": "ya-es-tuyo",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 7,
+    "title": "Hogwarts Legacy",
+    "price_normal": 15149,
+    "price_off": 9199,
+    "description": "Estudiantes de Hogwarts comienzan una peligrosa aventura para descubrir",
+    "image": "../../assets/image/home/hogwartsLegacy.jpg",
+    "type": "nuevo",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 8,
+    "title": "Harry Potter Magic Awakened",
+    "price_normal": 15000,
+    "price_off": 12000,
+    "description": "Ayuda a Harry y sus amigos a enfrentar y superar los distintos obstaculos",
+    "image": "../../assets/image/home/harry.webp",
+    "type": "off",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 9,
+    "title": "Pokemon",
+    "price_normal": 9199,
+    "price_off": 9649,
+    "description": "Ayuda a Ash a capturar y entrenar a todos los pokemons y descubre",
+    "image": "../../assets/image/home/pokemon.webp",
+    "type": "nuevo",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 10,
+    "title": "The Witcher 3",
+    "price_normal": 23599,
+    "price_off": 12000,
+    "description": "Geralt de Rivia, se encarga de curar a la hija del Rey Foltest, quien tenía",
+    "image": "../../assets/image/home/witcher.jpg",
+    "type": "exclusive",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 11,
+    "title": "Tomb Raider",
+    "price_normal": 9199,
+    "price_off": 8179,
+    "description": "Lara debe luchar para huir de una isla remota y descubrir su oscura",
+    "image": "../../assets/image/home/tomRaider.jpg",
+    "type": "exclusive",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 12,
+    "title": "God of War Ragnarok",
+    "price_normal": 20000,
+    "price_off": 16000,
+    "description": "Kratos y Atreus deben elegir entre su propia seguridad y la de los reinos",
+    "image": "../../assets/image/home/godOfWar.webp",
+    "type": "off",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 13,
+    "title": "Pánico en Saltadilla",
+    "price_normal": 12370,
+    "price_off": 9649,
+    "description": "El alcalde de Saltadilla ha convocado urgentemente a las chicas superpoderosas",
+    "image": "../../assets/image/home/PanicoSaltadilla.webp",
+    "type": "",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 14,
+    "title": "Resident Evil 6",
+    "price_normal": 14599,
+    "price_off": 12000,
+    "description": "Leon se ve obligado a informar el desastre viral ocurrido en Tall Oaks",
+    "image": "../../assets/image/home/resident.jpg",
+    "type": "",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 15,
+    "title": "GTA VI",
+    "price_normal": 15290,
+    "price_off": 8179,
+    "description": "En un ambiente urbano podes conducir vehículos, robar, luchar",
+    "image": "../../assets/image/home/gta.webp",
+    "type": "exclusive",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 16,
+    "title": "The Last Of Us",
+    "price_normal": 11179,
+    "price_off": 8179,
+    "description": "Joel, es contratado para sacar de contrabando a Ellie, una niña...",
+    "image": "../../assets/image/home/theLastOfUs.jpg",
+    "type": "",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 17,
+    "title": "Assassin’s Creed 2",
+    "price_normal": 14599,
+    "price_off": 8179,
+    "description": "Desmond Miles debe llevar a cabo varios asesinatos ordenados por el jefe de",
+    "image": "../../assets/image/home/assassin.jpg",
+    "type": "nuevo",
+    "qualification": 0,
+    "bought": false
+    },
+    {
+    "id": 18,
+    "title": "Spider Man 5",
+    "price_normal": 18179,
+    "price_off": 0,
+    "description": "Peter Parker debe luchar contra el crimen organizado de Nueva York",
+    "image": "../../assets/image/home/spiderman.jpg",
+    "type": "gratis",
+    "qualification": 0,
+    "bought": false
+    }
+]

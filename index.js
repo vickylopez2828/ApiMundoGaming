@@ -26,9 +26,7 @@ const upload = multer({ storage });
 //config archivos static
 const path = require('path');
 app.use('/static', express.static(path.join(__dirname, './upload')));
-app.get('/', (req, res)=>{
-  res.send("holaaaaaaaaaa")
-})
+app.get('/', GamesController.getAllGames);
 // app.get('/', (req, res)=>{
 //   const htmlResponse =
 //     `<html>
