@@ -4,10 +4,10 @@ const mysql = require('mysql2/promise');
 const getConnection = async () => {
     try {
         const connection = await mysql.createConnection({
-            host: 'localhost',
-            user: 'root',
-            database: 'mundo_gaming',
-            password: '12345',
+            host: process.env.MYSQL_ADDON_HOST,
+            user: process.env.MYSQL_ADDON_USER,
+            database: process.env.MYSQL_ADDON_DB,
+            password: process.env.MYSQL_ADDON_PASSWORD,
         });
         return connection;
     } catch (err) {
