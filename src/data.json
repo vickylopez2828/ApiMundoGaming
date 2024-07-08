@@ -5,7 +5,7 @@
     "price_normal": 8990,
     "price_off": 0,
     "description": "Juego multijugador masivo de grupos eliminación en grupo",
-    "image": "https://apimundogaming.onrender.com/static/stumble.png",
+    "gameImage": "https://apimundogaming.onrender.com/static/stumble.png",
     "type": "exclusive",
     "qualification": 0,
     "bought": false
@@ -16,7 +16,7 @@
     "price_normal": 25900,
     "price_off": 0,
     "description": "Videojuego tipo sandbox, podes modelar el mundo a tu gusto! tambien",
-    "image": "https://apimundogaming.onrender.com/static/minecraft.png",
+    "gameImage": "https://apimundogaming.onrender.com/static/minecraft.png",
     "type": "gratis",
     "qualification": 0,
     "bought": false
@@ -27,7 +27,7 @@
     "price_normal": 12900,
     "price_off": 0,
     "description": "Acompaña a Mario y Luigi en una nueva aventura, se enfrentarán con un",
-    "image": "../../assets/image/home/mario.jpeg",
+    "gameImage": "https://apimundogaming.onrender.com/static/mario.jpeg",
     "type": "exclusive",
     "qualification": 0,
     "bought": false
@@ -38,7 +38,7 @@
     "price_normal": 15000,
     "price_off": 12000,
     "description": "Party royale gratis y multiplataforma donde los jugadores pueden elegir una",
-    "image": "../../assets/image/home/FallGuys.webp",
+    "gameImage": "https://apimundogaming.onrender.com/static/FallGuys.webp",
     "type": "nuevo",
     "qualification": 0,
     "bought": false
@@ -49,7 +49,7 @@
     "price_normal": 25000,
     "price_off": 20000,
     "description": "Hasta 50 jugadores caen desde un paracaídas en una isla en busca de nuevos",
-    "image": "../../assets/image/home/freeFire.jpg",
+    "gameImage": "https://apimundogaming.onrender.com/static/freeFire.jpg",
     "type": "off",
     "qualification": 0,
     "bought": false
@@ -60,7 +60,7 @@
     "price_normal": 29000,
     "price_off": 0,
     "description": "Juego de batalla real, compiten hasta 100 players en solitario, dúos y equipos",
-    "image": "../../assets/image/home/fornite.jpg",
+    "gameImage": "https://apimundogaming.onrender.com/static/fornite.jpg",
     "type": "ya-es-tuyo",
     "qualification": 0,
     "bought": false
@@ -71,7 +71,7 @@
     "price_normal": 15149,
     "price_off": 9199,
     "description": "Estudiantes de Hogwarts comienzan una peligrosa aventura para descubrir",
-    "image": "../../assets/image/home/hogwartsLegacy.jpg",
+    "gameImage": "https://apimundogaming.onrender.com/static/hogwartsLegacy.jpg",
     "type": "nuevo",
     "qualification": 0,
     "bought": false
@@ -82,7 +82,7 @@
     "price_normal": 15000,
     "price_off": 12000,
     "description": "Ayuda a Harry y sus amigos a enfrentar y superar los distintos obstaculos",
-    "image": "../../assets/image/home/harry.webp",
+    "gameImage": "https://apimundogaming.onrender.com/static/harry.webp",
     "type": "off",
     "qualification": 0,
     "bought": false
@@ -93,7 +93,7 @@
     "price_normal": 9199,
     "price_off": 9649,
     "description": "Ayuda a Ash a capturar y entrenar a todos los pokemons y descubre",
-    "image": "../../assets/image/home/pokemon.webp",
+    "gameImage": "https://apimundogaming.onrender.com/static/pokemon.webp",
     "type": "nuevo",
     "qualification": 0,
     "bought": false
@@ -104,7 +104,7 @@
     "price_normal": 23599,
     "price_off": 12000,
     "description": "Geralt de Rivia, se encarga de curar a la hija del Rey Foltest, quien tenía",
-    "image": "../../assets/image/home/witcher.jpg",
+    "gameImage": "https://apimundogaming.onrender.com/static/witcher.jpg",
     "type": "exclusive",
     "qualification": 0,
     "bought": false
@@ -115,7 +115,7 @@
     "price_normal": 9199,
     "price_off": 8179,
     "description": "Lara debe luchar para huir de una isla remota y descubrir su oscura",
-    "image": "../../assets/image/home/tomRaider.jpg",
+    "gameImage": "https://apimundogaming.onrender.com/static/tomRaider.jpg",
     "type": "exclusive",
     "qualification": 0,
     "bought": false
@@ -126,7 +126,7 @@
     "price_normal": 20000,
     "price_off": 16000,
     "description": "Kratos y Atreus deben elegir entre su propia seguridad y la de los reinos",
-    "image": "../../assets/image/home/godOfWar.webp",
+    "gameImage": "https://apimundogaming.onrender.com/static/godOfWar.webp",
     "type": "off",
     "qualification": 0,
     "bought": false
@@ -137,7 +137,7 @@
     "price_normal": 12370,
     "price_off": 9649,
     "description": "El alcalde de Saltadilla ha convocado urgentemente a las chicas superpoderosas",
-    "image": "../../assets/image/home/PanicoSaltadilla.webp",
+    "gameImage": "https://apimundogaming.onrender.com/static/PanicoSaltadilla.webp",
     "type": "",
     "qualification": 0,
     "bought": false
@@ -148,7 +148,7 @@
     "price_normal": 14599,
     "price_off": 12000,
     "description": "Leon se ve obligado a informar el desastre viral ocurrido en Tall Oaks",
-    "image": "../../assets/image/home/resident.jpg",
+    "gameImage": "https://apimundogaming.onrender.com/static/resident.jpg",
     "type": "",
     "qualification": 0,
     "bought": false
@@ -159,7 +159,7 @@
     "price_normal": 15290,
     "price_off": 8179,
     "description": "En un ambiente urbano podes conducir vehículos, robar, luchar",
-    "image": "../../assets/image/home/gta.webp",
+    "gameImage": "https://apimundogaming.onrender.com/static/gta.webp",
     "type": "exclusive",
     "qualification": 0,
     "bought": false
@@ -170,7 +170,7 @@
     "price_normal": 11179,
     "price_off": 8179,
     "description": "Joel, es contratado para sacar de contrabando a Ellie, una niña...",
-    "image": "../../assets/image/home/theLastOfUs.jpg",
+    "gameImage": "https://apimundogaming.onrender.com/static/theLastOfUs.jpg",
     "type": "",
     "qualification": 0,
     "bought": false
@@ -181,7 +181,7 @@
     "price_normal": 14599,
     "price_off": 8179,
     "description": "Desmond Miles debe llevar a cabo varios asesinatos ordenados por el jefe de",
-    "image": "../../assets/image/home/assassin.jpg",
+    "gameImage": "https://apimundogaming.onrender.com/static/assassin.jpg",
     "type": "nuevo",
     "qualification": 0,
     "bought": false
@@ -192,7 +192,7 @@
     "price_normal": 18179,
     "price_off": 0,
     "description": "Peter Parker debe luchar contra el crimen organizado de Nueva York",
-    "image": "../../assets/image/home/spiderman.jpg",
+    "gameImage": "https://apimundogaming.onrender.com/static/spiderman.jpg",
     "type": "gratis",
     "qualification": 0,
     "bought": false
