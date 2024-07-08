@@ -4,10 +4,10 @@ const mysql = require('mysql2/promise');
 const getConnection = async () => {
     try {
         const connection = await mysql.createConnection({
-            host: process.env.HOST || 'localhost',
-            user: process.env.USER || 'root',
-            database: process.env.DB || 'mundo_gaming',
-            password: process.PASSWORD || '12345',
+            host: 'bbbpexsnbs5uae2ixkqi-mysql.services.clever-cloud.com',
+            user: 'uzeiismnnrisl2xd',
+            database: 'bbbpexsnbs5uae2ixkqi',
+            password: 'tWCQGHfX9sAbK5Hi5r1J',
         });
         return connection;
     } catch (err) {
