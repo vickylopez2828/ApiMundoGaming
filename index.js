@@ -26,7 +26,9 @@ const upload = multer({ storage });
 //config archivos static
 const path = require('path');
 app.use('/static', express.static(path.join(__dirname, './upload')));
-
+app.get('/', (req, res)=>{
+  res.send("holaaaaaaaaaa")
+})
 // app.get('/', (req, res)=>{
 //   const htmlResponse =
 //     `<html>
@@ -39,7 +41,7 @@ app.use('/static', express.static(path.join(__dirname, './upload')));
 // });
 //ruteo games
 
- app.get('/',  GamesController.getAllGames);
+// app.get('/api/games',  GamesController.getAllGames);
 app.get('/api/games/:id',  GamesController.getGame);
 app.post('/api/games', upload.single('gameImage'), (req, res) => {
     //console.log(req.file)
